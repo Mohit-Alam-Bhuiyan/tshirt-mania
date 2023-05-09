@@ -1,0 +1,74 @@
+[
+    {
+      "_id": "6453f6d22c1a42645d046345",
+      "index": 0,
+      "picture": "https://img.freepik.com/free-psd/unisex-flex-fleece-zip-hoodie-mockup-03_126278-181.jpg?w=826&t=st=1683224467~exp=1683225067~hmac=b3aa92666fb9bbb5f0dd995d03f962439a8adfb7f00fa8583e4a555abc88ae2d",
+      "name": "Men's Gray",
+      "price": "$36",
+      "gender": "male"
+    },
+    {
+      "_id": "6453f6d24c342d76b71af810",
+      "index": 1,
+      "picture": "https://img.freepik.com/free-psd/unisex-flex-fleece-zip-hoodie-mockup_126278-185.jpg?w=826&t=st=1683357119~exp=1683357719~hmac=11cd781d978460ade2f3e2b65e23206f8540bb5a5652419922bf892e8cd23995",
+      "name": "Men's Bottle Green",
+      "price": "$13",
+      "gender": "female"
+    },
+    {
+      "_id": "6453f6d206135d879e3dd21f",
+      "index": 2,
+      "picture": "https://img.freepik.com/free-psd/mens-tri-blend-crew-tee-mockup-07_126278-135.jpg?w=826&t=st=1683224684~exp=1683225284~hmac=c81be55b429f1bed81ef1433a65373a2bb77da9fac2879ff761ee52aee08d6ba",
+      "name": "Men's Olive",
+      "price": "$39",
+      "gender": "female"
+    },
+    {
+      "_id": "6453f6d2b93adece2893e16b",
+      "index": 3,
+      "picture": "https://img.freepik.com/free-psd/mens-short-sleeve-t-shirt-mockups_126278-128.jpg?w=826&t=st=1683224725~exp=1683225325~hmac=1e1912cf5167289d133d6222692467ef2572fbed3f99014f883306ff0ba4adee",
+      "name": "Men's Middle Blue",
+      "price": "$10",
+      "gender": "male"
+    },
+    {
+      "_id": "6453f6d262fc280b97cddd26",
+      "index": 4,
+      "picture": "https://img.freepik.com/premium-psd/mens-triblend-ringer-tee-back-mockup_126278-418.jpg?w=826",
+      "name": "Men's Orange",
+      "price": "$16",
+      "gender": "male"
+    },
+    {
+      "_id": "6453f6d25191ad03f98b888b",
+      "index": 5,
+      "picture": "https://img.freepik.com/free-psd/mens-short-sleeve-t-shirt-mockups-03_126278-124.jpg?w=826&t=st=1683224777~exp=1683225377~hmac=d607d3fbacb30640f8d17593e9abdc212ee440a307beae958178d505495edc66",
+      "name": "Men's Pink",
+      "price": "$22",
+      "gender": "male"
+    },
+    {
+      "_id": "6453f6d2e28ed7ce0394d3bd",
+      "index": 6,
+      "picture": "https://img.freepik.com/free-psd/mens-short-sleeve-t-shirt-mockups_126278-123.jpg?w=826&t=st=1683224842~exp=1683225442~hmac=6ad70ee351804d3294e2d6076cc5f42a56856018fffc91b298257ade1efc1a21",
+      "name": "Men's Green",
+      "price": "$31",
+      "gender": "female"
+    },
+    {
+      "_id": "6453f6d23d7e1e41dcc77646",
+      "index": 7,
+      "picture": "https://img.freepik.com/free-psd/mens-ringers-t-shirt-mockup-02_126278-116.jpg?w=826&t=st=1683224912~exp=1683225512~hmac=5ef004a665597c8d164fd3fd6f2f2d9e2394950880f43eb7ebf1984510b70b11",
+      "name": "Men's Light Gray",
+      "price": "$10",
+      "gender": "female"
+    },
+    {
+      "_id": "6453f6d256cb4434e8b1fb58",
+      "index": 8,
+      "picture": "https://img.freepik.com/free-psd/mens-ultra-cotton-tee-mockup-06_126278-148.jpg?w=826&t=st=1683224970~exp=1683225570~hmac=884f79a2d17e4b6964be661fd7d82ad4cfdf352c85af4e9c43e53f77415e4079",
+      "name": "Men's Dark Violet",
+      "price": "$11",
+      "gender": "male"
+    }
+  ]
